@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2010\Projects\MYWEB\MYWEB\bin\MYWEB.dll
+c:\users\hp\documents\visual studio 2010\Projects\MYWEB\MYWEB\bin\MYWEB.pdb
+c:\users\hp\documents\visual studio 2010\Projects\MYWEB\MYWEB\obj\Debug\MYWEB.dll
+c:\users\hp\documents\visual studio 2010\Projects\MYWEB\MYWEB\obj\Debug\MYWEB.pdb
+C:\Users\Hp\documents\visual studio 2010\Projects\MYWEB\MYWEB\obj\Debug\MYWEB.csprojResolveAssemblyReference.cache
